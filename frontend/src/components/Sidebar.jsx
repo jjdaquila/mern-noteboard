@@ -41,7 +41,7 @@ function Navbar() {
       >
         <div>
           <h1 className="text-3xl font-bold text-primary font-mono tracking-tight mb-8 text-right mr-9 md:text-center md:mr-0">
-            ThinkBoard
+            NoteBoard
           </h1>
 
           <div className="flex flex-col gap-4">
