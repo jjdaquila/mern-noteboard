@@ -1,6 +1,6 @@
 import React from 'react'
 import { Route, Routes, useLocation } from 'react-router'
-import HomePage from './pages/Homepage'
+import HomePage from './pages/HomePage'
 import CreatePage from './pages/CreatePage'
 import NoteDetailPage from './pages/NoteDetailPage'
 import NoteMenu from './pages/NoteMenu'
