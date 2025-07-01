@@ -3,7 +3,7 @@ import RateLimitedUI from '../components/RateLimitedUI'
 import axios from 'axios'
 import toast from 'react-hot-toast'
 import NoteCard from '../components/NoteCard'
-import NoteModal from '../components/NoteModal'
+import NoteModal from '../components/noteModal'
 
 function NoteMenu() {
   const [isRateLimited, setIsRateLimited] = useState(false)
